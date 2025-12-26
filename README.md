@@ -29,6 +29,12 @@
 ---
 
 ### 📊 节点质量实时监控
-![Node Status](https://github.com/你的用户名/你的仓库名/raw/main/image.png)
+超快 4K 体验：全 BGP 专线优化，YouTube/Netflix/Disney+ 秒开。
+
+AI 办公首选：完美解锁 ChatGPT, Claude, Midjourney 等生产力工具。
+
+全平台兼容：支持 Windows (Clash Verge), Android (v2rayNG), iOS (小火箭/Stash), macOS。
+
+极速安全：采用 TUIC v5 和 VLESS Reality 协议，隐蔽性极强。
 
 > **免责声明**：本项目内容仅供网络技术研究与开发者交流使用。请遵守当地法律法规。
