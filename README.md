@@ -37,6 +37,6 @@ AI 办公首选：完美解锁 ChatGPT, Claude, Midjourney 等生产力工具。
 
 极速安全：采用 TUIC v5 和 VLESS Reality 协议，隐蔽性极强。
 
-💡 更多详细教程： 点击访问我们的 Wiki 百科 获取 Clash、小火箭及 AI 解锁的深度配置指南。
+💡 更多详细教程：[ 点击访问我们的 Wiki 百科 获取 Clash、小火箭及 AI 解锁的深度配置指南。](https://github.com/zjx438394-cmyk/NanoCloud-High-Speed-Clash-V2ray-SingBox-Subscription/wiki)。
 
 > **免责声明**：本项目内容仅供网络技术研究与开发者交流使用。请遵守当地法律法规。
